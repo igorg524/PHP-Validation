@@ -1,4 +1,4 @@
-# A website that provides registration, validation, email confirmation, and the storage of user information in a document with password hashed.
+# A website that provides registration, validation, email confirmation, and the storage of user information in a document with hashed password.
 
 ### Home page
 ![homePage](https://github.com/user-attachments/assets/a071dd54-b25f-45f5-8331-17024ef7654c)
